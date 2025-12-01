@@ -1,18 +1,32 @@
-# SPIMF - Sistem Pengurusan Identiti Membership FareezOnzz
+# 🏢 SPIMF - Sistem Pengurusan Identiti Membership FareezOnzz
 
-Sistem pengurusan ahli berasaskan web yang dibina dengan Google Apps Script dan disepadukan dengan Google Sheets.
+Sistem pengurusan keahlian berasaskan web yang dibangunkan dengan Google Apps Script, bersepadu sepenuhnya dengan Google Sheets.
 
-## 🚀 Ciri-ciri Utama
-*   **Login 4 Kaedah**: Nombor Telefon, ID Kad, Kode Pengguna, atau Akaun Kata Laluan.
-*   **Profil Boleh Edit**: Ahli boleh kemaskini maklumat peribadi dan media sosial.
-*   **Log Sistem & Sejarah**: Merekod semua perubahan dan boleh pulih data.
-*   **Waktu Operasi**: Paparan countdown waktu aktif sistem (6 Pagi - 1 Pagi).
+## 🌐 **Pautan Sistem Langsung**
+✅ **Sistem Produksi**: [Akses SPIMF di sini](https://script.google.com/macros/s/AKfycbz4WfpIDUKIIUvIBk1uDeDQ5E2gA4BTGp-RUa4WcFWc_8TnggnrrrbWdeNP5EYlZhwWwA/exec)
 
-## 📁 Struktur Projek
-(Lihat struktur folder yang anda sudah ada)
+*(Nota: Pada akses pertama, sistem akan meminta kebenaran untuk mengakses Google Sheet. Ini adalah normal.)*
 
-## ⚡ Mulakan dengan Pantas
-Lihat [SETUP_GUIDE.md](/documentation/SETUP_GUIDE.md) untuk arahan terperinci.
+## 🚀 **Ciri-ciri Utama**
+- **4 Kaedah Login**: Nombor Telefon, ID Kad Pendaftaran, Kode Pengguna, atau Akaun/Kata Laluan.
+- **Profil Boleh Edit**: Ahli boleh mengemaskini maklumat peribadi & media sosial secara langsung.
+- **Log Sistem & Sejarah**: Merekod setiap perubahan dan membenarkan pemulihan data.
+- **Pengurusan Waktu Operasi**: Paparan *countdown* waktu aktif sistem (6:00 Pagi - 1:00 Pagi).
 
-## 📄 Lesen
-Projek ini dilesenkan di bawah Lesen Apache 2.0 - lihat fail [LICENSE](LICENSE) untuk butiran.
+## 🛠 **Teknologi**
+- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
+- **Backend**: Google Apps Script
+- **Pangkalan Data**: Google Sheets
+- **Hosting**: Google Script Web App
+
+## 📁 **Struktur Kod Sumber**
+Kod sumber untuk sistem ini terkandung dalam folder [`/appscript`](/appscript). Ia merangkumi:
+- `Code.gs` - Logik backend Apps Script
+- `Index.html` - Antara muka pengguna (UI/UX)
+- `appsscript.json` - Fail manifest untuk konfigurasi
+
+## 📄 **Lesen**
+Projek ini dilesenkan di bawah **Lesen Apache 2.0**. Lihat fail [LICENSE](LICENSE) untuk butiran penuh.
+
+---
+*Sistem ini dibangunkan dan dikekalkan oleh FareezOnzz. Hak Cipta Dipelihara sejak 22 November 2025.*

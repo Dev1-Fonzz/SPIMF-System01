@@ -3,7 +3,7 @@
 Sistem pengurusan keahlian berasaskan web yang dibangunkan dengan Google Apps Script, bersepadu sepenuhnya dengan Google Sheets.
 
 ## 🌐 **Pautan Sistem Langsung**
-✅ **Sistem Produksi**: [Akses SPIMF di sini](https://script.google.com/macros/s/AKfycbz4WfpIDUKIIUvIBk1uDeDQ5E2gA4BTGp-RUa4WcFWc_8TnggnrrrbWdeNP5EYlZhwWwA/exec)
+✅ **Sistem Produksi**: [Akses SPIMF di sini](https://script.google.com/macros/s/AKfycbzbiYOFmQ3wJK_lF5kD7RZ-LsKt84SFvqqmho8wk2uGxnNouGJSUJJAGYKJIKOvgoeY/exec)
 
 *(Nota: Pada akses pertama, sistem akan meminta kebenaran untuk mengakses Google Sheet. Ini adalah normal.)*
 

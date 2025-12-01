@@ -1,1 +1,11 @@
 
+# Logs dan fail sementara
+*.log
+*.tmp
+
+# Fail persekitaran (jika ada)
+.env
+
+# Sistem pengendalian
+.DS_Store
+Thumbs.db

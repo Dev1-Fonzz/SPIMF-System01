@@ -1,21 +1,46 @@
+
+## 4. `package.json` (Versi Diperbaiki)
+
+```json
 {
   "name": "spimf-system",
-  "version": "3.0.0",
-  "description": "Sistem Pengurusan Identiti Membership FareezOnzz",
+  "version": "3.0.4",
+  "description": "Sistem Pengurusan Identiti Membership FareezOnzz - Professional Membership Management System",
   "main": "index.html",
   "scripts": {
-    "dev": "echo 'Open index.html in browser'",
-    "build": "echo 'Build complete'",
-    "start": "echo 'Server not required for static site'"
+    "dev": "echo 'Open index.html directly in browser or use live server'",
+    "build": "echo 'No build required for static site'",
+    "deploy": "echo 'Push to GitHub and deploy on Vercel'",
+    "test": "echo 'Open index.html in browser to test'",
+    "clean": "echo 'Cleaning not required'"
   },
   "keywords": [
     "spimf",
     "membership",
     "management",
-    "google-sheets"
+    "google-sheets",
+    "vercel",
+    "malaysia",
+    "identity-management"
   ],
-  "author": "FareezOnzz",
+  "author": "FareezOnzz Team",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/spimf-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/spimf-system/issues"
+  },
+  "homepage": "https://spimf.vercel.app",
+  "engines": {
+    "node": ">=14.0.0"
+  },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "browserslist": [
+    "last 2 versions",
+    "> 1%",
+    "not dead"
+  ]
 }

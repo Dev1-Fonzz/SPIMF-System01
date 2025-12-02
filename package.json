@@ -1,0 +1,22 @@
+```json
+{
+  "name": "spimf-system",
+  "version": "3.0.0",
+  "description": "Sistem Pengurusan Identiti Membership FareezOnzz",
+  "main": "index.html",
+  "scripts": {
+    "dev": "echo 'Open index.html in browser'",
+    "build": "echo 'Build complete'",
+    "start": "echo 'Server not required for static site'"
+  },
+  "keywords": [
+    "spimf",
+    "membership",
+    "management",
+    "google-sheets"
+  ],
+  "author": "FareezOnzz",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
